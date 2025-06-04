@@ -1,7 +1,5 @@
-#Password Generator
-[Visit for generate password ](tranquil-jelly-506a44.netlify.app
-
-)
+# Password Generator
+[Visit for generate password ](tranquil-jelly-506a44.netlify.app)
 
 
 
